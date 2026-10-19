@@ -1,9 +1,11 @@
 ---
-title: A practical product-research checklist
-description: A reusable worksheet for comparing materials, evidence, maintenance, and cost before buying household products.
+title: Low Tox Fam — A practical product-research checklist
+description: Low Tox Fam's reusable product comparison worksheet. This is not Laurel's official website, blog, or a Laurel partner publication.
 ---
 
-# A practical product-research checklist
+# Low Tox Fam: A practical product-research checklist
+
+Low Tox Fam publishes this product-research notebook. This is not Laurel's official website or blog and does not represent a Laurel partnership. Links to Laurel are references to its product directory.
 
 A product page can tell you what a brand wants you to notice. A useful comparison records what you can verify—and leaves room for what you still do not know.
 
@@ -71,4 +73,4 @@ Ask one final question: **What unresolved detail could change my decision?** If 
 
 ---
 
-Published as a Laurel resource. This worksheet organizes product research; it does not certify products or report independent product testing. Category links checked September 20, 2026.
+Published by Low Tox Fam. This worksheet organizes product research; it does not certify products or report independent product testing. Links to Laurel do not make this an official Laurel website, blog, or partner publication. Category links checked September 20, 2026.
